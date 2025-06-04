@@ -52,14 +52,10 @@ pip install pandas matplotlib openpyxl pillow
 
 2. No terminal (Linux) ou Prompt de Comando (Windows), vá até a pasta do arquivo:
 
-   ```
-   bash
-   
-   
-   CopiarEditar
+   ```bash
    cd caminho/para/o/arquivo
    ```
-
+   
 3. Execute com:
 
    ```bash
